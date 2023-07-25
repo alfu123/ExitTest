@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CH02/02_02/02_02.iml" filepath="$PROJECT_DIR$/CH02/02_02/02_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH02/02_05/02_05.iml" filepath="$PROJECT_DIR$/CH02/02_05/02_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH05/05_04/05_04.iml" filepath="$PROJECT_DIR$/CH05/05_04/05_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH03/03_05/begin/AtomicOperationDemo/AtomicOperationDemo.iml" filepath="$PROJECT_DIR$/CH03/03_05/begin/AtomicOperationDemo/AtomicOperationDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH03/03_05/end/AtomicOperationDemo/AtomicOperationDemo1.iml" filepath="$PROJECT_DIR$/CH03/03_05/end/AtomicOperationDemo/AtomicOperationDemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH03/03_05/begin/AtomicVariableDemo/AtomicVariableDemo.iml" filepath="$PROJECT_DIR$/CH03/03_05/begin/AtomicVariableDemo/AtomicVariableDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH03/03_05/end/AtomicVariableDemo/AtomicVariableDemo1.iml" filepath="$PROJECT_DIR$/CH03/03_05/end/AtomicVariableDemo/AtomicVariableDemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Exercise Files.iml" filepath="$PROJECT_DIR$/.idea/Exercise Files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH02/02_07/begin/begin.iml" filepath="$PROJECT_DIR$/CH02/02_07/begin/begin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH05/05_06/begin/begin1.iml" filepath="$PROJECT_DIR$/CH05/05_06/begin/begin1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH05/05_02/begin/begin10.iml" filepath="$PROJECT_DIR$/CH05/05_02/begin/begin10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH05/05_08/begin/begin11.iml" filepath="$PROJECT_DIR$/CH05/05_08/begin/begin11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH04/04_04/begin/begin12.iml" filepath="$PROJECT_DIR$/CH04/04_04/begin/begin12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH02/02_09/begin/begin2.iml" filepath="$PROJECT_DIR$/CH02/02_09/begin/begin2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH04/04_06/begin/begin3.iml" filepath="$PROJECT_DIR$/CH04/04_06/begin/begin3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH03/03_07/begin/begin4.iml" filepath="$PROJECT_DIR$/CH03/03_07/begin/begin4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH02/02_11/begin/begin5.iml" filepath="$PROJECT_DIR$/CH02/02_11/begin/begin5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH03/03_06/begin/begin6.iml" filepath="$PROJECT_DIR$/CH03/03_06/begin/begin6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH03/03_04/begin/begin7.iml" filepath="$PROJECT_DIR$/CH03/03_04/begin/begin7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH03/03_02/begin/begin8.iml" filepath="$PROJECT_DIR$/CH03/03_02/begin/begin8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH04/04_02/begin/begin9.iml" filepath="$PROJECT_DIR$/CH04/04_02/begin/begin9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH05/05_02/end/end.iml" filepath="$PROJECT_DIR$/CH05/05_02/end/end.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH04/04_04/end/end1.iml" filepath="$PROJECT_DIR$/CH04/04_04/end/end1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH04/04_06/end/end10.iml" filepath="$PROJECT_DIR$/CH04/04_06/end/end10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH03/03_06/end/end11.iml" filepath="$PROJECT_DIR$/CH03/03_06/end/end11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH03/03_02/end/end12.iml" filepath="$PROJECT_DIR$/CH03/03_02/end/end12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH03/03_07/end/end2.iml" filepath="$PROJECT_DIR$/CH03/03_07/end/end2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH05/05_08/end/end3.iml" filepath="$PROJECT_DIR$/CH05/05_08/end/end3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH03/03_04/end/end4.iml" filepath="$PROJECT_DIR$/CH03/03_04/end/end4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH02/02_07/end/end5.iml" filepath="$PROJECT_DIR$/CH02/02_07/end/end5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH02/02_09/end/end6.iml" filepath="$PROJECT_DIR$/CH02/02_09/end/end6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH04/04_02/end/end7.iml" filepath="$PROJECT_DIR$/CH04/04_02/end/end7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH05/05_06/end/end8.iml" filepath="$PROJECT_DIR$/CH05/05_06/end/end8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH02/02_11/end/end9.iml" filepath="$PROJECT_DIR$/CH02/02_11/end/end9.iml" />
+    </modules>
+  </component>
+</project>
